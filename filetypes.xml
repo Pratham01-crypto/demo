@@ -5,6 +5,7 @@
       <mapping pattern="Spreadout" type="HTML" />
       <mapping pattern="pages" type="PLAIN_TEXT" />
       <mapping pattern="Spreadout.html" type="PLAIN_TEXT" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
